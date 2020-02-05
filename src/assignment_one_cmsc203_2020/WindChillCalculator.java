@@ -18,7 +18,7 @@ public class WindChillCalculator{
         double v;
         final double num1 = 35.74;
         final double num2 = 0.625;
-        final double num3 = 0.2475;
+        final double num3 = 0.4275;
         final double num4 = 35.75;
         
         double windChillTemperature;
